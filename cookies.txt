@@ -1,0 +1,18 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+store.vama.app	TRUE	/hi	FALSE	1999999999	localization	IN
+vama.app	TRUE	/	FALSE	1999999999	_landing_page	%2F
+store.vama.app	TRUE	/	FALSE	1999999999	_shopify_essential	:AZhbV0ZpAAEAUT_hr3nbja4QWlWUh52ZqKV8PKeMmySH9M6s-Dz2G1AFo5njQCrbeKqHySh1vmBJVtHJg2KS0v_M1-09fO1okVg:
+store.vama.app	TRUE	/	FALSE	1999999999	Priority	High
+upload.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Uniq	8OUwXhpXc1c4785yztqFwwJAAAEBAFvdP0--ZZq_Vdlt6QBm3ocFCecFgCblTENV
+upload.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+vama.app	TRUE	/	FALSE	1999999999	_tracking_consent	3.AMPS_INGJ_f_f_sWEVtmHpTT6RhJ0qOe4cng
+store.vama.app	TRUE	/	FALSE	1999999999	localization	IN
+store.vama.app	TRUE	/	FALSE	1999999999	_shopify_country	India
+vama.app	TRUE	/	FALSE	1999999999	_shopify_y	1bca4aaa-8ac8-4371-a540-dde9a10058c8
+vama.app	TRUE	/	FALSE	1999999999	_shopify_s	0fd55c46-77c4-4f86-99c2-9d1b7d5c6d36
+store.vama.app	TRUE	/	FALSE	1999999999	SameSite	Strict
+store.vama.app	TRUE	/	FALSE	1999999999	SameSite	Strict
+store.vama.app	TRUE	/	FALSE	1999999999	keep_alive	8e3cfd52-370d-4bbd-8960-c9f5fe808866
+store.vama.app	TRUE	/	FALSE	1999999999	SameSite	Strict
+
